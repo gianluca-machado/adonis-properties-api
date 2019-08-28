@@ -8,7 +8,8 @@
     "start": "node server.js",
     "test": "node ace test",
     "list": "adonis route:list",
-    "migration": "adonis migration:run"
+    "migration": "adonis migration:run",
+    "model": "adonis make:model modalName -m -c"
   },
   "keywords": [
     "adonisjs",
